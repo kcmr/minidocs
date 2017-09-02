@@ -114,5 +114,5 @@ yarn global add package-name
 
 ## Información adicional
 
-- [Yarn](https://yarnpkg.com/)
+- [Yarn CLI](https://yarnpkg.com/en/docs/cli/)
 - [Yarn in 30 minutes (Vídeo)](http://www.mead.io/yarn/)
