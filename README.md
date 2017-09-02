@@ -2,4 +2,4 @@
 
 Una lista de referencias rápidas sobre temas variados.
 
-- [Yarn](yarn)
+- [Yarn](yarn/index.md)
